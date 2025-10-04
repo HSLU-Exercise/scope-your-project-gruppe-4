@@ -1,0 +1,8 @@
+# Main.java belongs to hslualexanderb
+/src/calculator/Main.java @hslualexanderb
+
+# Calculator.java belongs to iaenzler
+/src/calculator/Calculator.java @iaenzler
+
+# All other files belong to everyone
+* @DenisRadi @Raniatissira @hslualexanderb @iaenzler
