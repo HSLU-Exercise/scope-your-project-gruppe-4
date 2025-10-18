@@ -1,20 +1,13 @@
-## Beschreibung
-<!-- Beschreibe die Änderungen -->
+### Titel
 
-## Motivation & Kontext
-<!-- Warum ist diese Änderung notwendig? -->
+**Beschreibung**
+<!-- Beschreibe die Änderungen und warum sie notwendig ist? -->
 
-## Änderungen
+**Änderungen Checklist**
 - [ ] Funktioniert lokal
 - [ ] Tests angepasst/geschrieben
+- [ ] Keine Konflikte mit `main`
 - [ ] Reviewer hinzugefügt
 - [ ] Dokumentation aktualisiert
 
-## Screenshots (falls UI)
-
-## Review Checklist
-- [ ] Code ist verständlich und dokumentiert
-- [ ] Funktionalität erfüllt die Anforderungen
-- [ ] Keine offensichtlichen Sicherheitsprobleme
-- [ ] Tests vorhanden und erfolgreich
-- [ ] Naming & Struktur konsistent
+**Screenshots (falls UI)**
