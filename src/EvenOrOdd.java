@@ -3,12 +3,12 @@ import java.util.Scanner;
 public class EvenOrOdd {
     public static void main (String[] args){
 
-        scanner input = new scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
 
         // user input
         System.out.print("Enter a number: ");
-        boolean number = input.nextInt();
+        int number = input.nextInt();
 
 
         // calculations and output
