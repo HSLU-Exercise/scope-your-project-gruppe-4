@@ -9,7 +9,7 @@ public class DoWhileDemo {
         do{
             System.out.print("Enter a positive number: ");
             number = input.nextInt();
-        }while(integer <= 0);
+        }while(number <= 0);
 
         System.out.println("You entered: " + number);
 
