@@ -1,3 +1,7 @@
+// Demo Code für Live-Demo
+// vor Start kopieren und in sc neuen Code anlegen
+// Fehler: interger = input.nextInt(); müsste sein: number = input.nextInt();
+
 import java.util.Scanner;
 
 public class DoWhileDemo {
